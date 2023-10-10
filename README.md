@@ -68,5 +68,5 @@ Create a pull request to the main repository.
 ## Design Acknowledgement
 Figma : single-page-developer-portfolio (Community)
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
