@@ -9,9 +9,8 @@ const AboutMe = () => {
           <div className="name">I'm <span className='rectangle'>Vikram Devaguptapu.</span></div>
           
         </div>
-        <img src="./images/istem.jpg" alt="My Photo" className="my-photo" />
-        {/* <h2 className='title'>About Me</h2> */}
-        <p>Based in the Fredericton, Canada, Im a full-stack developer passionate about building accessible web apps that users love.
+        <img src="./images/istem.jpg" alt="vikram presenting" className="my-photo" />
+         <p>Based in the Fredericton, Canada, Im a full-stack developer passionate about building accessible web apps that users love.
           </p>
           </div>
     </section>
