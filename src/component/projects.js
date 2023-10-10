@@ -21,7 +21,7 @@ const Projects = () => {
       <h3>Note Taker </h3>
       <p>Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.</p>
       <div className="links">
-        <a href="https://example.com/app1" target="_blank" rel="noopener noreferrer">Demo</a>
+        <a href="https://note-taker-camp-4d7836941c1d.herokuapp.com/" target="_blank" rel="noopener noreferrer">Demo</a>
         <a href="https://github.com/vikramadityad/noteTaker" target="_blank" rel="noopener noreferrer">GitHub</a>
       </div>
     </div>
