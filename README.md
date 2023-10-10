@@ -54,7 +54,7 @@ To view the portfolio and interact with its various sections, simply clone the r
 
 ## LiveURL
 
-  https://vikramadityad.github.io/portfolio-react/
+  https://extraordinary-snickerdoodle-40a9fc.netlify.app/
 
 ## Contributing
 If you would like to contribute to this project, please follow these guidelines:
