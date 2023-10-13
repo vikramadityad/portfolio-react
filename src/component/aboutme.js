@@ -11,7 +11,7 @@ const AboutMe = () => {
         </div>
         <img src="./images/istem.jpg" alt="Vikram Speaking" className="my-photo" />
         {/* <h2 className='title'>About Me</h2> */}
-        <p>Based in the Fredericton, Canada, Im a full-stack developer passionate about building accessible web apps that users love.
+        <p>Based in Fredericton, Canada, I'm a full-stack developer passionate about building accessible web apps that users love.
           </p>
           </div>
     </section>
