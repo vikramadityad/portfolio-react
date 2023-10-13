@@ -58,7 +58,7 @@ const Projects = () => {
       <h3>E-commerce Backend</h3>
       <p>Back end for an e-commerce site. Utilized Express.js API and configure it to use Sequelize to interact with a MySQL database.</p>
       <div className="links">
-        <a href="https://example.com/app1" target="_blank" rel="noopener noreferrer">Demo</a>
+        <a href="https://drive.google.com/file/d/1ilOEz_VbjJyXeHD6wDwO-77hkwTgHzMF/view?usp=sharing" target="_blank" rel="noopener noreferrer">Demo</a>
         <a href="https://github.com/vikramadityad/E-commerce_Back_End" target="_blank" rel="noopener noreferrer">GitHub</a>
       </div>
     </div>
