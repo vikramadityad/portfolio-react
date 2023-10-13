@@ -47,7 +47,7 @@ const Contact = () => {
     <section className="contact">
       <h2 className="title">Contact</h2>
       <div className="contact-description">
-      I would love to hear about your project and how I could help. Please fill in the form, or contact me at <a href="mailto:vikramd@duck.com" className="contact">vikramd@duck.com</a> or <span className="contact">(506)-260-6305</span>. I’ll get back to you as soon as possible.
+      I would love to hear about your project and how I could help. Please fill in the form, or contact me at <a href="mailto:vikramd@duck.com" className="contact">vikramd@duck.com</a> or <span className="contact">(506)-334-5555</span>. I’ll get back to you as soon as possible.
       </div>
       <div className="contact-form-container">
         <form className="contact-form-group" onSubmit={handleSubmit}>
