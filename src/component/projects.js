@@ -65,7 +65,7 @@ const Projects = () => {
     <div className="portfolio-item">
       <img src="./images/factv.png" alt="factv Tech Lounge" />
       <h3>React full stack</h3>
-      <p>FACT-V Lounge is a full-stack React project for users to seamlessly browse, buy, and enjoy tech-inspired lounge offerings, while the MERN-stack project leverages MongoDB, GraphQL, and user authentication.</p>
+      <p>FACT-V Lounge is a full-stack React web application for users to seamlessly browse, buy, and enjoy tech-inspired lounge offerings, while the MERN-stack project leverages MongoDB, GraphQL, and user authentication.</p>
       <div className="links">
         <a href="https://fact-v-tech-lounge-client-f58d96d137e5.herokuapp.com/" target="_blank" rel="noopener noreferrer">Demo</a>
         <a href="https://github.com/vikramadityad/fact-v-tech-lounge" target="_blank" rel="noopener noreferrer">GitHub</a>
