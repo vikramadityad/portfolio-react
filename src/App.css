@@ -160,7 +160,8 @@ body {
 
 .bio_desc p {
   max-width: 600px;
-  margin: 50px auto;
+  margin: 10px auto;
+  text-align: justify;
 
 }
 
@@ -171,11 +172,15 @@ body {
 
 /* Green Rectangle */
 .bio .rectangle {
-
   /* border-color: #4EE1A0;
   border-style: solid; */
   border-bottom: 4px solid #4EE1A0;
+}
 
+.rectangle_light {
+  /* border-color: #4EE1A0;
+  border-style: solid; */
+  border-bottom: 1px solid #4EE1A0;
 }
 
 /* Name */
